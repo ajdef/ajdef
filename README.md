@@ -9,6 +9,11 @@ I'm a computer engineering student who is passionate about computer architecture
  - Digital Signal Processing
  - Junior Design (Intro to PCB Design)
 
+## 📊 Skills:
+🧑‍💻 Programming Languages: C, Python, Verilog, Java, Tcl, MATLAB, MIPs <br />
+🔌 Hardware: FPGA (Artix 7, Spartan 7), Microcontroller (TI MSP430, Arduino), DMM, Oscilloscope, Function Generator, DC Power Supply <br />
+🖥️ Software: Linux, Xilinx Vivado, LTSpice, [OpenFPGA](https://github.com/lnis-uofu/OpenFPGA), [Pyverilog](https://github.com/PyHDI/Pyverilog), [Yosys](https://github.com/YosysHQ/yosys), [VPR/VTR](https://github.com/verilog-to-routing/vtr-verilog-to-routing), [Icarus Verilog](https://github.com/steveicarus/iverilog), MARS  <br />
+
 
 ## 🔭 Actively Working On:
  - RISC/MIPS Single Cycle Datapath verilog design
