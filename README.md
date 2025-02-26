@@ -16,7 +16,7 @@ I'm a computer engineering student who is passionate about computer architecture
 
 
 ## 🔭 Actively Working On:
- - RISC/MIPS Single Cycle Datapath verilog design
+ - RISC/MIPS Single Cycle Datapath (restarting to implement with SystemVerilog)
  - Semi-automated validation techniques (SECDED project)
  
 
