@@ -16,8 +16,9 @@ I'm a computer engineering student who is passionate about computer architecture
 
 
 ## 🔭 Actively Working On:
- - RISC/MIPS Single Cycle Datapath (restarting to implement with SystemVerilog)
- - Semi-automated validation techniques (SECDED project)
+ - Semi-automated validation techniques [(SECDED project)](https://github.com/ajdef/SECDED-Hamming84/blob/main/README.md)
+ - RISC/MIPS Single Cycle Datapath (restarting to implement with SystemVerilog, repo uploaded soon)
+
  
 
 ## 🪴 Prior Relevant Coursework:
