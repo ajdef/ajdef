@@ -23,6 +23,7 @@ I'm a computer engineering student who is passionate about computer architecture
 
 ## 🪴 Prior Relevant Coursework:
 |Hardware Security & Trusted Circuit Design|Digital Systems|Embedded Systems|
+|-|-|-|
 |<div align="center">Linear Circuits I/II|<div align="center">Computer Science I/II (DSA in C/Java)|<div align="center">Intro to Discrete Structures|
 |<div align="center">Advanced Computer Architecture|<div align="center">HDL in Digital Systems Design|<div align="center">Digital Signal Processing|
 |<div align="center">Electronics I|<div align="center">Junior Design|<div align="center"> - |
