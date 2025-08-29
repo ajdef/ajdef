@@ -25,6 +25,8 @@ I'm a computer engineering student who is passionate about computer architecture
 |Hardware Security & Trusted Circuit Design|Digital Systems|Embedded Systems|
 |-|-|-|
 |<div align="center">Linear Circuits I/II|<div align="center">Computer Science I/II (DSA in C/Java)|<div align="center">Intro to Discrete Structures|
+|-|-|-|
+|Advanced Computer Architecture|HDL in Digital Systems Design|Digital Signal Processing|
 
 
 
