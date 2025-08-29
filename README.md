@@ -3,11 +3,10 @@ I'm a computer engineering student who is passionate about computer architecture
 
 
 ## 🌱 Current Coursework:
- - Advanced Computer Achitecture
- - Hardware Description Languages in Digital System Design
- - Electronics I
- - Digital Signal Processing
- - Junior Design (Intro to PCB Design)
+ - Field Programmable Gate Array (FPGA) Design
+ - Advanced Verification & Validation of Digital Systems
+ - Computer Communications Networks
+ - Senior Design I
 
 ## 📊 Skills:
 🧑‍💻 Programming Languages: C, Python, Verilog, Java, Tcl, MATLAB, MIPs <br />
