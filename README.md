@@ -28,15 +28,6 @@ I'm a computer engineering student who is passionate about computer architecture
 |<div align="center">Electronics I|<div align="center">Junior Design|<div align="center"> - |
 
 
-
-
-
-
-<br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br />
-<div align="center"> If you made it this far, thanks for checking out my profile!
-<div align="center"> <img class = "personalityImage" align="center" alt="Yippee Cat" width="350" src="resources/YippeeCat.gif" />
-
-
 <!--
 **ajdef/ajdef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
